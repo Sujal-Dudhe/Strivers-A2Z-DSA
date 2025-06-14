@@ -5,6 +5,8 @@ import java.util.HashMap;
 // Given an array of integers nums and an integer target. Return the indices(0 - indexed) of two elements in nums such that they add up to target.
 public class TwoSum {
 
+  // Time Complexity: O(N)
+  // Space Complexity: O(N)
   public static int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> mp = new HashMap<>();
 
