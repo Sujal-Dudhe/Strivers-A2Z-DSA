@@ -1,6 +1,6 @@
 package arrays;
 
-public class maxProductSubArr {
+public class MaxProductSubArr {
 
   // Time Complexity: O(N)
   // Space Complexity: O(1)
