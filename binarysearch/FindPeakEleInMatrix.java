@@ -13,7 +13,6 @@ public class FindPeakEleInMatrix {
   // Time Complexity: O(N*log(M))
   // Space Complexity: O(1)
   public static int[] peakGrid(int[][] mat) {
-    int n = mat.length;
     int m = mat[0].length;
 
     int low = 0, high = m - 1;

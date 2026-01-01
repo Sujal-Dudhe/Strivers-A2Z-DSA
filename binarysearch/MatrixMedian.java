@@ -3,9 +3,6 @@
  */
 package binarysearch;
 
-import java.util.ArrayList;
-import java.util.Collections;
-
 public class MatrixMedian {
 
   /* 
