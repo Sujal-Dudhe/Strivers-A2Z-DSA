@@ -101,8 +101,7 @@ public class SegregateOddAndEvenNodes {
         System.out.print("Original List: ");
         printList(head);
 
-        SegregateOddAndEvenNodes solution = new SegregateOddAndEvenNodes();
-        head = solution.oddEvenList(head);
+        head = oddEvenList(head);
 
         System.out.print("After Segregating Odd & Even Nodes: ");
         printList(head);
